@@ -18,3 +18,4 @@ try:
 
       # Convertir la imagen a bytes
 
+
